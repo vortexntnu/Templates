@@ -1,2 +1,2 @@
 # Templates
-Several diffrent types of Altium Designer templates
+This repo contains Vortex templates for Altium Designer.
